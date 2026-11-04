@@ -1,7 +1,8 @@
 ```
 bread
+butter
 ham
-avocado
 cheese
+butter
 bread
 ```
