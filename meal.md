@@ -1,8 +1,6 @@
 ```
 bread
-bacon
-lettuce
-tomato
+chicken
 bread
 ```
 # to do list:
